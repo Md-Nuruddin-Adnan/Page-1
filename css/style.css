@@ -183,6 +183,12 @@ body {
 
 
 /* ==== Responsive css ==== */
+/*Extra Small devices (phones upto 575px) */
+@media(max-width: 575px){
+  .board h1 {
+    font-size: 31px;
+  }
+}
 
 /* Small devices (landscape phones upto 767px) */
 @media (max-width: 767px) {
